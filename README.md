@@ -18,7 +18,7 @@ In this project I have created a racing game which is connected to an Arduino an
 
 ### 1. Ultrasonic Sensor, Potentiometer
 
-Firstly, I connected the Arduino to an ultrasonic sensor and a potentiometer to control the speed of the car, and the direction of the car respectively.The higher the value of the distance sensor, the faster the car will go. Whenthe potentiometer is turned to the right, the car will also travel to the right.
+Firstly, I connected the Arduino to an ultrasonic sensor and a potentiometer to control the speed of the car, and the direction of the car respectively. The higher the value of the distance sensor, the faster the car will go, the lower the value, the slower the speed. When value from the potentiometer is positive, the car drives to the right, when the value is negative, the car drives to the left.
 
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/2.JPG" width="60%">
@@ -37,7 +37,7 @@ The settings of the car can be changed by adjusting the variables I have defined
 
 ### 2. Light Sensor
 
-I then added light sensors to control the brightness of the sky in the game to allow the player to become more immersed in the game. For example, if you play the game in a dark room, the scenes in the game will also be dark.
+I then added light sensors to control the brightness of the sky in the game to allow the player to become more immersed in the game. The greater the value of the light sensor, the brighter the sky light. And if you play the game in a dark room, the scene in the game will also be dark.
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/3.JPG" width="60%">
 
@@ -59,7 +59,7 @@ This is how the light changes in the game when I cover the light sensor with my 
 
 ### 3. Vibration Motor
 
-After this I added a vibration motor and put it on the back of the steering wheel. When the car hits an obstacle, the vibration motor will vibrate and the steering wheel will vibrate with it, which will give the player an immersive gaming experience.
+After this I added a vibration motor and put it on the back of the steering wheel. When the car hits an obstacle, the vibration motor will vibrate , which will make the player experience better.
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/4.JPG" width="50%">
 
