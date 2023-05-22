@@ -6,10 +6,10 @@ In this project I have created a racing game which is connected to an Arduino an
 
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/1.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/1.png" width="80%">
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/1-1.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/1-1.png" width="80%">
 
 
 *&nbsp;*
@@ -24,7 +24,7 @@ Firstly, I connected the Arduino to an ultrasonic sensor and a potentiometer to 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/2.JPG" width="60%">
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/2-1.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/2-1.png" width="80%">
 
 
 The settings of the car can be changed by adjusting the variables I have defined in Unity.
@@ -42,7 +42,7 @@ I then added light sensors to control the brightness of the sky in the game to a
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/3.JPG" width="60%">
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/3-1.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/3-1.png" width="80%">
 
 This is how the light changes in the game when I cover the light sensor with my hand.
 
@@ -61,16 +61,16 @@ This is how the light changes in the game when I cover the light sensor with my 
 
 After this I added a vibration motor and put it on the back of the steering wheel. When the car hits an obstacle, the vibration motor will vibrate and the steering wheel will vibrate with it, which will give the player an immersive gaming experience.
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/4.JPG" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/4.JPG" width="50%">
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/4-1.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/4-1.png" width="80%">
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/4-2.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/4-2.png" width="80%">
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/4-3.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/4-3.png" width="80%">
 
 *&nbsp;*
 
@@ -84,7 +84,7 @@ I have created ten prefabs for roads, thus creating a random endless road. When 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/6.JPG" width="60%">
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/6-1.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/6-1.png" width="80%">
 
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/6-2.JPG" width="60%">
@@ -115,7 +115,7 @@ I have added some coins to the roads and a score record in the top left corner o
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/5.png" width="60%">
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/5-1.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/5-1.png" width="80%">
 
 I added a collision effect that makes a blue flame, and a destruction effect that makes a red explosion, respectively.
 
@@ -183,7 +183,7 @@ I ended up making a steering wheel that was assembled with the potentiometer tha
 
 ## Video
 
-This is the video presentation of the final project.
+This is the video presentation of this Final Project.
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/11.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/11.png" width="80%">
