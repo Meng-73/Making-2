@@ -117,7 +117,7 @@ I have added some coins to the roads and a score record in the top left corner o
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/5-1.png" width="80%">
 
-I added a collision effect that makes a blue flame, and a destruction effect that makes a red explosion, respectively.
+I added a collision effect that emits blue flames, and a game over destruction effect that emits a red explosion, respectively.
 
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/5-2.png" width="60%">
@@ -131,11 +131,12 @@ I added a collision effect that makes a blue flame, and a destruction effect tha
 
 ### 6. Menu
 
-I have added a main menu scene to this game scene which contains buttons to start the game and end the game. Clicking on start game will jump the screen to the game scene and start the game, clicking on end game will exit the game.Also I have set the button effect so that the colour of the button will change when the mouse hovers over it.Also, I have created an end of game scene containing a button to start again and a button to end the game.
+I have added a main menu scene to this game scene which contains buttons to start the game and end the game. Clicking on the 'Start' button will jump from the main menu scene to the main game scene and start the game, clicking on the 'Quit' button will exit the game.I have set up the button effects so that the colour of the buttons will change when the mouse is hovered over them.
 
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/7.png" width="60%">
 
+Also, I have created an end of game scene containing a button to start again and a button to end the game. Clicking on the 'Restart' button will reload the main game scene and clicking on the 'Quit' button will quit the game. Both buttons also change colour when the mouse is hovered over and pressed.
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/8.JPG" width="60%">
 
