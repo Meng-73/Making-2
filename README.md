@@ -162,7 +162,7 @@ Finally, I have added sounds to this game. This includes the overall soundtrack 
 I write the code to make them play at the right time.
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/9-2.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/9-4.png" width="60%">
 
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/9-3.png" width="60%">
