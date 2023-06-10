@@ -47,7 +47,7 @@ I then added light sensors to control the brightness of the sky in the game to a
 This is how the light changes in the game when I cover the light sensor with my hand.
 
 
-<img src="https://github.com/Meng-73/Making-2/blob/main/image/3-2.png" width="60%">
+<img src="https://github.com/Meng-73/Making-2/blob/main/image/3-2-1.jpg" width="60%">
 
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/3-3.png" width="60%">
