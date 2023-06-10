@@ -89,7 +89,7 @@ I have created ten prefabs for roads, thus creating a random endless road. When 
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/6-2.JPG" width="60%">
 
-These are a few of my road prefabs.
+These are some of my road prefabs, there are ten road prefabs in total.
 
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/6-3.JPG" width="60%">
