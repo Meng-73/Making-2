@@ -186,6 +186,6 @@ I ended up making a steering wheel that was assembled with the potentiometer tha
 
 This is the video presentation of this project.
 
-https://youtu.be/LcMH60NnkEc
+https://youtu.be/fRJnu2-SgEI
 
 <img src="https://github.com/Meng-73/Making-2/blob/main/image/11.png" width="80%">
